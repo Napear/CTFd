@@ -5,3 +5,5 @@ CTFd/*.db
 CTFd/uploads/**/*
 .ctfd_secret_key
 .data
+/CTFd.iml
+/.idea/

@@ -63,3 +63,4 @@ CTFd/uploads
 .data/
 .ctfd_secret_key
 .*.swp
+/CTFd.iml
